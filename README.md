@@ -6,6 +6,7 @@ This repo include all questions i practiced on LeetCode.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/aryan01-99/LC-DSA-/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/aryan01-99/LC-DSA-/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/aryan01-99/LC-DSA-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/aryan01-99/LC-DSA-/tree/main/0056-merge-intervals/) | Medium |
@@ -48,5 +49,6 @@ This repo include all questions i practiced on LeetCode.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/aryan01-99/LC-DSA-/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/aryan01-99/LC-DSA-/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
