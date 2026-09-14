@@ -10,6 +10,7 @@ This repo include all questions i practiced on LeetCode.
 | [0042-trapping-rain-water](https://github.com/aryan01-99/LC-DSA-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/aryan01-99/LC-DSA-/tree/main/0056-merge-intervals/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0704-binary-search](https://github.com/aryan01-99/LC-DSA-/tree/main/0704-binary-search/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/aryan01-99/LC-DSA-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -44,4 +45,8 @@ This repo include all questions i practiced on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/aryan01-99/LC-DSA-/tree/main/0042-trapping-rain-water/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/aryan01-99/LC-DSA-/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
