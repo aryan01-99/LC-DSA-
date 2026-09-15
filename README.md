@@ -13,6 +13,7 @@ This repo include all questions i practiced on LeetCode.
 | [0041-first-missing-positive](https://github.com/aryan01-99/LC-DSA-/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/aryan01-99/LC-DSA-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/aryan01-99/LC-DSA-/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aryan01-99/LC-DSA-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0704-binary-search](https://github.com/aryan01-99/LC-DSA-/tree/main/0704-binary-search/) | Easy |
@@ -26,6 +27,7 @@ This repo include all questions i practiced on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/aryan01-99/LC-DSA-/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0088-merge-sorted-array/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +40,7 @@ This repo include all questions i practiced on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/aryan01-99/LC-DSA-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0088-merge-sorted-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0088-merge-sorted-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
