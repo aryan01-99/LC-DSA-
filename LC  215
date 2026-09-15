@@ -1,0 +1,54 @@
+#include <stdlib.h>
+
+int partition(int *nums, int left, int right)
+{
+    int pivot = nums[left];
+    int i = left + 1;
+    int j = right;
+
+    while (i <= j)
+    {
+        while (i <= right && nums[i] < pivot)
+            i++;
+
+        while (j >= left + 1 && nums[j] > pivot)
+            j--;
+
+        if (i < j)
+        {
+            int temp = nums[i];
+            nums[i] = nums[j];
+            nums[j] = temp;
+
+            i++;
+            j--;
+        }
+    }
+
+    nums[left] = nums[j];
+    nums[j] = pivot;
+
+    return j;
+}
+
+int findKthLargest(int* nums, int numsSize, int k)
+{
+    int target = numsSize - k;
+    int left = 0;
+    int right = numsSize - 1;
+
+    while (left <= right)
+    {
+        int p = partition(nums, left, right);
+
+        if (p == target)
+            return nums[p];
+
+        if (p < target)
+            left = p + 1;
+        else
+            right = p - 1;
+    }
+
+    return -1;
+}
