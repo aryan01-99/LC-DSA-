@@ -17,6 +17,7 @@ This repo include all questions i practiced on LeetCode.
 | [0088-merge-sorted-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aryan01-99/LC-DSA-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/aryan01-99/LC-DSA-/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0912-sort-an-array/) | Medium |
@@ -68,12 +69,14 @@ This repo include all questions i practiced on LeetCode.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/aryan01-99/LC-DSA-/tree/main/0035-search-insert-position/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aryan01-99/LC-DSA-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/aryan01-99/LC-DSA-/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryan01-99/LC-DSA-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
@@ -83,6 +86,7 @@ This repo include all questions i practiced on LeetCode.
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
@@ -104,17 +108,21 @@ This repo include all questions i practiced on LeetCode.
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0493-reverse-pairs/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0493-reverse-pairs/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0493-reverse-pairs/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
