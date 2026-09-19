@@ -46,6 +46,7 @@ This repo include all questions i practiced on LeetCode.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/aryan01-99/LC-DSA-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/aryan01-99/LC-DSA-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/aryan01-99/LC-DSA-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0088-merge-sorted-array/) | Easy |
@@ -128,6 +129,7 @@ This repo include all questions i practiced on LeetCode.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/aryan01-99/LC-DSA-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/aryan01-99/LC-DSA-/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
