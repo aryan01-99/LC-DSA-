@@ -125,4 +125,12 @@ This repo include all questions i practiced on LeetCode.
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0493-reverse-pairs/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/aryan01-99/LC-DSA-/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/aryan01-99/LC-DSA-/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
