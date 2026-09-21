@@ -77,16 +77,19 @@ This repo include all questions i practiced on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryan01-99/LC-DSA-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0912-sort-an-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0912-sort-an-array/) | Medium |
@@ -131,6 +134,7 @@ This repo include all questions i practiced on LeetCode.
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aryan01-99/LC-DSA-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/aryan01-99/LC-DSA-/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/aryan01-99/LC-DSA-/tree/main/0206-reverse-linked-list/) | Easy |
@@ -141,4 +145,8 @@ This repo include all questions i practiced on LeetCode.
 | [0024-swap-nodes-in-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/aryan01-99/LC-DSA-/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/aryan01-99/LC-DSA-/tree/main/0206-reverse-linked-list/) | Easy |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
