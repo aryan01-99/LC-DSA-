@@ -44,6 +44,7 @@ This repo include all questions i practiced on LeetCode.
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/aryan01-99/LC-DSA-/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/aryan01-99/LC-DSA-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ This repo include all questions i practiced on LeetCode.
 | [0075-sort-colors](https://github.com/aryan01-99/LC-DSA-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/aryan01-99/LC-DSA-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@ This repo include all questions i practiced on LeetCode.
 | [0024-swap-nodes-in-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/aryan01-99/LC-DSA-/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0141-linked-list-cycle](https://github.com/aryan01-99/LC-DSA-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/aryan01-99/LC-DSA-/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
