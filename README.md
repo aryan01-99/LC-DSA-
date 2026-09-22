@@ -43,6 +43,7 @@ This repo include all questions i practiced on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/aryan01-99/LC-DSA-/tree/main/0041-first-missing-positive/) | Hard |
+| [0138-copy-list-with-random-pointer](https://github.com/aryan01-99/LC-DSA-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/aryan01-99/LC-DSA-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Two Pointers
@@ -141,6 +142,7 @@ This repo include all questions i practiced on LeetCode.
 | [0023-merge-k-sorted-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/aryan01-99/LC-DSA-/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0138-copy-list-with-random-pointer](https://github.com/aryan01-99/LC-DSA-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/aryan01-99/LC-DSA-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/aryan01-99/LC-DSA-/tree/main/0206-reverse-linked-list/) | Easy |
