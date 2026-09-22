@@ -43,6 +43,7 @@ This repo include all questions i practiced on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/aryan01-99/LC-DSA-/tree/main/0041-first-missing-positive/) | Hard |
+| [0141-linked-list-cycle](https://github.com/aryan01-99/LC-DSA-/tree/main/0141-linked-list-cycle/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ This repo include all questions i practiced on LeetCode.
 | [0042-trapping-rain-water](https://github.com/aryan01-99/LC-DSA-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/aryan01-99/LC-DSA-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/aryan01-99/LC-DSA-/tree/main/0141-linked-list-cycle/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@ This repo include all questions i practiced on LeetCode.
 | [0023-merge-k-sorted-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/aryan01-99/LC-DSA-/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0141-linked-list-cycle](https://github.com/aryan01-99/LC-DSA-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/aryan01-99/LC-DSA-/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -149,4 +152,8 @@ This repo include all questions i practiced on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/aryan01-99/LC-DSA-/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
