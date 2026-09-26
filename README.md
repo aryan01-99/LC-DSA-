@@ -47,6 +47,7 @@ This repo include all questions i practiced on LeetCode.
 | [0141-linked-list-cycle](https://github.com/aryan01-99/LC-DSA-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0432-all-oone-data-structure](https://github.com/aryan01-99/LC-DSA-/tree/main/0432-all-oone-data-structure/) | Hard |
+| [0460-lfu-cache](https://github.com/aryan01-99/LC-DSA-/tree/main/0460-lfu-cache/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ This repo include all questions i practiced on LeetCode.
 | [0206-reverse-linked-list](https://github.com/aryan01-99/LC-DSA-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aryan01-99/LC-DSA-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/aryan01-99/LC-DSA-/tree/main/0432-all-oone-data-structure/) | Hard |
+| [0460-lfu-cache](https://github.com/aryan01-99/LC-DSA-/tree/main/0460-lfu-cache/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,8 +175,10 @@ This repo include all questions i practiced on LeetCode.
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aryan01-99/LC-DSA-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/aryan01-99/LC-DSA-/tree/main/0432-all-oone-data-structure/) | Hard |
+| [0460-lfu-cache](https://github.com/aryan01-99/LC-DSA-/tree/main/0460-lfu-cache/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0432-all-oone-data-structure](https://github.com/aryan01-99/LC-DSA-/tree/main/0432-all-oone-data-structure/) | Hard |
+| [0460-lfu-cache](https://github.com/aryan01-99/LC-DSA-/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
