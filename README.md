@@ -46,6 +46,7 @@ This repo include all questions i practiced on LeetCode.
 | [0138-copy-list-with-random-pointer](https://github.com/aryan01-99/LC-DSA-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/aryan01-99/LC-DSA-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0432-all-oone-data-structure](https://github.com/aryan01-99/LC-DSA-/tree/main/0432-all-oone-data-structure/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +148,7 @@ This repo include all questions i practiced on LeetCode.
 | [0160-intersection-of-two-linked-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/aryan01-99/LC-DSA-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aryan01-99/LC-DSA-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0432-all-oone-data-structure](https://github.com/aryan01-99/LC-DSA-/tree/main/0432-all-oone-data-structure/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,4 +172,9 @@ This repo include all questions i practiced on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aryan01-99/LC-DSA-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0432-all-oone-data-structure](https://github.com/aryan01-99/LC-DSA-/tree/main/0432-all-oone-data-structure/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0432-all-oone-data-structure](https://github.com/aryan01-99/LC-DSA-/tree/main/0432-all-oone-data-structure/) | Hard |
 <!---LeetCode Topics End-->
