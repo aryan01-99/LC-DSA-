@@ -6,6 +6,7 @@ This repo include all questions i practiced on LeetCode.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/aryan01-99/LC-DSA-/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryan01-99/LC-DSA-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -42,6 +43,7 @@ This repo include all questions i practiced on LeetCode.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/aryan01-99/LC-DSA-/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/aryan01-99/LC-DSA-/tree/main/0041-first-missing-positive/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/aryan01-99/LC-DSA-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/aryan01-99/LC-DSA-/tree/main/0141-linked-list-cycle/) | Easy |
