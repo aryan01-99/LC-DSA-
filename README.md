@@ -17,6 +17,7 @@ This repo include all questions i practiced on LeetCode.
 | [0075-sort-colors](https://github.com/aryan01-99/LC-DSA-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aryan01-99/LC-DSA-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0217-contains-duplicate](https://github.com/aryan01-99/LC-DSA-/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0493-reverse-pairs/) | Hard |
@@ -34,6 +35,7 @@ This repo include all questions i practiced on LeetCode.
 | [0056-merge-intervals](https://github.com/aryan01-99/LC-DSA-/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/aryan01-99/LC-DSA-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/aryan01-99/LC-DSA-/tree/main/0217-contains-duplicate/) | Easy |
 | [0912-sort-an-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0912-sort-an-array/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -48,6 +50,7 @@ This repo include all questions i practiced on LeetCode.
 | [0138-copy-list-with-random-pointer](https://github.com/aryan01-99/LC-DSA-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/aryan01-99/LC-DSA-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0217-contains-duplicate](https://github.com/aryan01-99/LC-DSA-/tree/main/0217-contains-duplicate/) | Easy |
 | [0432-all-oone-data-structure](https://github.com/aryan01-99/LC-DSA-/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0460-lfu-cache](https://github.com/aryan01-99/LC-DSA-/tree/main/0460-lfu-cache/) | Hard |
 ## Two Pointers
