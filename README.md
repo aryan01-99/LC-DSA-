@@ -13,6 +13,7 @@ This repo include all questions i practiced on LeetCode.
 | [0035-search-insert-position](https://github.com/aryan01-99/LC-DSA-/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/aryan01-99/LC-DSA-/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/aryan01-99/LC-DSA-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0049-group-anagrams](https://github.com/aryan01-99/LC-DSA-/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/aryan01-99/LC-DSA-/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/aryan01-99/LC-DSA-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0088-merge-sorted-array/) | Easy |
@@ -32,6 +33,7 @@ This repo include all questions i practiced on LeetCode.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/aryan01-99/LC-DSA-/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/aryan01-99/LC-DSA-/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/aryan01-99/LC-DSA-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0088-merge-sorted-array/) | Easy |
@@ -47,6 +49,7 @@ This repo include all questions i practiced on LeetCode.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aryan01-99/LC-DSA-/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/aryan01-99/LC-DSA-/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/aryan01-99/LC-DSA-/tree/main/0049-group-anagrams/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/aryan01-99/LC-DSA-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/aryan01-99/LC-DSA-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -186,4 +189,8 @@ This repo include all questions i practiced on LeetCode.
 | ------- | ------- |
 | [0432-all-oone-data-structure](https://github.com/aryan01-99/LC-DSA-/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0460-lfu-cache](https://github.com/aryan01-99/LC-DSA-/tree/main/0460-lfu-cache/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/aryan01-99/LC-DSA-/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
