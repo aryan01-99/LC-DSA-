@@ -21,6 +21,7 @@ This repo include all questions i practiced on LeetCode.
 | [0217-contains-duplicate](https://github.com/aryan01-99/LC-DSA-/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/aryan01-99/LC-DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/aryan01-99/LC-DSA-/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0912-sort-an-array/) | Medium |
@@ -38,6 +39,7 @@ This repo include all questions i practiced on LeetCode.
 | [0075-sort-colors](https://github.com/aryan01-99/LC-DSA-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/aryan01-99/LC-DSA-/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/aryan01-99/LC-DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0912-sort-an-array/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -54,6 +56,7 @@ This repo include all questions i practiced on LeetCode.
 | [0141-linked-list-cycle](https://github.com/aryan01-99/LC-DSA-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/aryan01-99/LC-DSA-/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/aryan01-99/LC-DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/aryan01-99/LC-DSA-/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0460-lfu-cache](https://github.com/aryan01-99/LC-DSA-/tree/main/0460-lfu-cache/) | Hard |
 ## Two Pointers
@@ -94,12 +97,14 @@ This repo include all questions i practiced on LeetCode.
 | [0004-median-of-two-sorted-arrays](https://github.com/aryan01-99/LC-DSA-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryan01-99/LC-DSA-/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/aryan01-99/LC-DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/aryan01-99/LC-DSA-/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aryan01-99/LC-DSA-/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/aryan01-99/LC-DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -111,6 +116,7 @@ This repo include all questions i practiced on LeetCode.
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aryan01-99/LC-DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
@@ -119,6 +125,7 @@ This repo include all questions i practiced on LeetCode.
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aryan01-99/LC-DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/aryan01-99/LC-DSA-/tree/main/0912-sort-an-array/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
@@ -193,4 +200,8 @@ This repo include all questions i practiced on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/aryan01-99/LC-DSA-/tree/main/0049-group-anagrams/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aryan01-99/LC-DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
