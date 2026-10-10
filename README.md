@@ -50,6 +50,7 @@ This repo include all questions i practiced on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aryan01-99/LC-DSA-/tree/main/0001-two-sum/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/aryan01-99/LC-DSA-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0041-first-missing-positive](https://github.com/aryan01-99/LC-DSA-/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/aryan01-99/LC-DSA-/tree/main/0049-group-anagrams/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/aryan01-99/LC-DSA-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -199,9 +200,14 @@ This repo include all questions i practiced on LeetCode.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/aryan01-99/LC-DSA-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/aryan01-99/LC-DSA-/tree/main/0049-group-anagrams/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aryan01-99/LC-DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/aryan01-99/LC-DSA-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 <!---LeetCode Topics End-->
